@@ -1,0 +1,30 @@
+user@user-1-2:~/Desktop/temp2-main/DSEDIT/assignment6$ java RingAlgorithm 
+Enter the number of processes: 
+3
+Enter the ID of process 1: 
+1
+Enter the ID of process 2: 
+2
+Enter the ID of process 3: 
+3
+Processes in sorted order:
+[0] 1
+[1] 2
+[2] 3
+
+1. Initiate Election
+2. Quit
+1
+Enter the index of the process initiating the election: 
+1
+Election initiated by Process 2
+Process 2 sends message to Process 3
+Process 2 sends message to Process 1
+Process 1 sends message to Process 2
+Process 2 becomes the coordinator.
+
+1. Initiate Election
+2. Quit
+2
+Program terminated.
+
