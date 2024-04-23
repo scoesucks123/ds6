@@ -1,0 +1,38 @@
+user@user-1-2:~/Desktop/temp2-main/DSEDIT/assignment6$ java BullyAlgorithm 
+5 active processes are:
+Process up  = p1 p2 p3 p4 p5
+Process 5 is coordinator
+.........
+1. Up a process.
+2. Down a process.
+3. Send a message.
+4. Exit.
+2
+Bring down any process:
+1
+Process 1 is down.
+.........
+1. Up a process.
+2. Down a process.
+3. Send a message.
+4. Exit.
+1
+Bring process up:
+1
+Process 1 is up.
+.........
+1. Up a process.
+2. Down a process.
+3. Send a message.
+4. Exit.
+3
+Which process will send message:
+3
+Process 3 sends a message.
+.........
+1. Up a process.
+2. Down a process.
+3. Send a message.
+4. Exit.
+4
+
